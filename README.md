@@ -59,22 +59,9 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddierPaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddierPaz&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddierPaz&theme=dark&hide_border=true" alt="Racha de contribuciones" />
-</div>
-
----
-
-## 🏆 Logros en GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EddierPaz&theme=darkhub&no-frame=true&row=1&column=7" alt="Trofeos de GitHub" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddierPaz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 

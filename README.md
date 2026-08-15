@@ -1,10 +1,12 @@
-
 <div align="center">
-  <h1>¡Hola! Soy Eddier Antonio Paz Pardo 👋</h1>
-  <h3>💻 Estudiante de Análisis y Desarrollo de Software (ADSO) · SENA · 6.º trimestre</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Eddier+Antonio+Paz+Pardo;Backend+Developer+en+formaci%C3%B3n;Estudiante+ADSO+en+SENA+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+
   <p>
-    Desarrollador en formación con enfoque en <strong>Backend</strong>, lógica de negocio y análisis de software.
-    Me apasiona construir soluciones sólidas, bases de datos eficientes y código limpio.
+    💻 <strong>Estudiante de Análisis y Desarrollo de Software</strong> · SENA · 6.º trimestre<br>
+    ⚙️ Enfocado en <strong>Backend</strong>, bases de datos y lógica de negocio.<br>
+    🎯 Me apasiona construir soluciones sólidas y código limpio.
   </p>
 </div>
 
@@ -12,7 +14,7 @@
 
 ## 🧠 Sobre mí
 
-- 🎓 Estudiante del Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el **SENA**.
+- 🎓 Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** — SENA, 6.º trimestre.
 - ⚙️ Mi mayor fortaleza está en el **desarrollo Backend** y el **análisis de software**.
 - 🗄️ Me gusta diseñar bases de datos claras, consultas eficientes y estructuras escalables.
 - 💡 También manejo bases de **Frontend** para integrar interfaces funcionales con el servidor.
@@ -27,6 +29,7 @@
 ### 🐍 Lenguajes
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### ⚡ Framework Backend
@@ -57,8 +60,20 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddierPaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddierPaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estadísticas de GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddierPaz&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddierPaz&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+</div>
+
+---
+
+## 🏆 Logros en GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EddierPaz&theme=darkhub&no-frame=true&row=1&column=7" alt="Trofeos de GitHub" />
 </div>
 
 ---
